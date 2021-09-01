@@ -1,4 +1,4 @@
-<h2>Cities API - Desenvolvendo de uma API REST de consulta de cidades do Brasil e calculo de distancia entre cidades. Para isso foi adicionado a dependencia Hibernate Types 52 by Vlad Mihalcea</h2>
+<h2>Cities API - Desenvolvendo um sistema de consulta de cidades do Brasil e calculo de distancia entre cidades em API REST. Para isso foi adicionado a dependencia Hibernate Types 52</h2>
 
 ## Requirements
 
@@ -72,7 +72,7 @@ select earth_distance(
 * [https://start.spring.io/](https://start.spring.io/)
 
 + Java 8
-+ Gradle Project
++ Maven Project
 + Jar
 + Spring Web
 + Spring Data JPA
