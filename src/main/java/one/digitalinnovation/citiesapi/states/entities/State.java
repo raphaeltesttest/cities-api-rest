@@ -1,4 +1,4 @@
-package one.digitalinnovation.citiesapi.staties.entities;
+package one.digitalinnovation.citiesapi.states.entities;
 
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
 import one.digitalinnovation.citiesapi.countries.entities.Country;
